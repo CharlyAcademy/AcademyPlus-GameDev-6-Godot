@@ -4,8 +4,6 @@
 
 Este es el repositorio oficial para la clase de **Programación de Videojuegos con Godot** del 6° grado de **Academy Plus**.
 
-Aquí gestionaremos todos los proyectos que desarrollaremos durante el curso. Cada "mini proyecto" que hagamos tendrá su propia rama (`branch`) y su espacio de trabajo.
-
 ### 📝 Contenido del Curso
 
 Durante este curso, aprenderemos a:
