@@ -1,8 +1,8 @@
-# AcademyPlus-GameDev-7-Godot
+# AcademyPlus-GameDev-6-Godot
 
 ## ¡Bienvenido, Game Dev! 🚀
 
-Este es el repositorio oficial para la clase de **Programación de Videojuegos con Godot** del 7° grado de **Academy Plus**.
+Este es el repositorio oficial para la clase de **Programación de Videojuegos con Godot** del 6° grado de **Academy Plus**.
 
 Aquí gestionaremos todos los proyectos que desarrollaremos durante el curso. Cada "mini proyecto" que hagamos tendrá su propia rama (`branch`) y su espacio de trabajo.
 
@@ -23,7 +23,7 @@ Cada mini proyecto estará organizado de la siguiente manera:
 ### 👩‍💻 Cómo empezar a trabajar
 
 1.  **Clonar el repositorio**: Si no lo has hecho, clona este repositorio en tu computadora usando el comando:
-    `git clone https://github.com/tu_usuario/AcademyPlus-GameDev-7-Godot.git`
+    `git clone https://github.com/tu_usuario/AcademyPlus-GameDev-6-Godot.git`
 2.  **Crear tu rama**: Antes de empezar a trabajar en un proyecto, crea una rama nueva con tu nombre y el nombre del proyecto. Por ejemplo:
     `git branch tu-nombre/proyecto-nombre`
     `git checkout tu-nombre/proyecto-nombre`
